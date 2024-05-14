@@ -1,0 +1,30 @@
+footer {
+    width: 1400px;
+    height: 386px;
+
+    img {
+        padding-top: 100px;
+        padding-left: 740px;
+        padding-right: 555px;
+        padding-bottom: 40px;
+    }
+
+    ul {
+        display: flex;
+        padding-left: 610px;
+    }
+
+    ul li {
+        padding-right: 53px;
+        color: grey;
+        font-family: "Montserrat", sans-serif;
+        font-size: 16px;
+    }
+
+    p {
+        padding-top: 40px;
+        padding-left: 740px;
+        color: #1f1f1f49;
+        font-family: "Montserrat", sans-serif;
+    }
+}
